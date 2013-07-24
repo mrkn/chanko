@@ -1,5 +1,6 @@
 ---
 branches:
+  - origin/master
   - origin/whitesnake
 before_script: bundle
 script: bundle exec rake spec
